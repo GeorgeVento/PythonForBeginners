@@ -11,4 +11,4 @@
 
 Είμαστε ανοιχτοί σε όλες τις συνεισφορές!
 
-*   Κάντε κλικ στο "Commit changes".
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
